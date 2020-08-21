@@ -1,0 +1,21 @@
+INDEX VERSION 1.131
+C:\dev\JAVA_STUDY\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\942744382.index
+\t_webdev\src
+C:\dev\JAVA_STUDY\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\429751652.index
+\t_webdev\src
+C:\dev\JAVA_STUDY\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1479182494.index
+\webdev\src
+C:\dev\JAVA_STUDY\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4216760289.index
+\webdev\src
+C:\dev\JAVA_STUDY\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1719070197.index
+\t_webdev\src
+C:\dev\JAVA_STUDY\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2453547994.index
+\webdev\src
+C:\dev\JAVA_STUDY\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1041869723.index
+\webdev\src
+C:\dev\JAVA_STUDY\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3935520656.index
+\t_webdev\src
+C:\dev\JAVA_STUDY\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\385434962.index
+\t_webdev\src
+C:\dev\JAVA_STUDY\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\4260549648.index
+\webdev\src

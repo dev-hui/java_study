@@ -1,0 +1,35 @@
+package test0821;
+
+import java.util.Arrays;
+import java.util.Scanner;
+
+class Solution {
+    public static void main(String args[]) throws Exception {
+    	Scanner sc = new Scanner(System.in);
+
+        //System.setIn(new FileInputStream("C:\\sample_input.txt"));
+    	int[] lotto = {7,37, 38, 39, 40, 44};
+    	int bonus = 18;
+    	
+    	System.out.println("enter case Number > ");
+    	int caseNum = sc.nextInt();
+    	
+    	System.out.println("enter test Number > ");
+    	int testNum = sc.nextInt();
+    	
+		int[] mynumber = null;
+		
+    	for (int c = 0; c < caseNum; c++) {
+    		for(int t = 0; t < testNum; t++) {
+    			System.out.println("enter number > ");
+    			int mynumber[]  = new int[6];
+    				for(int i = 0; i < 6; i++) {
+    						mynumber[i] = sc.nextInt();
+    					}
+
+    	}
+
+			System.out.println(Arrays.toString(mynumber));
+    } 
+    }
+}
